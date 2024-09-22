@@ -7,6 +7,6 @@ redirect_from:
   - /projects
 ---
 
-## Links
+[Enterview](enterviewbeta.co)
 
-enterviewbeta.co
+This app empowers individuals to excel in their careers through personalized AI-driven behavioral interview preparation, turning potential into success.
